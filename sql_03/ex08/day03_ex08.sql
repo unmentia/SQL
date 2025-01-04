@@ -1,5 +1,3 @@
-SELECT * FROM menu
-
 INSERT INTO menu
 (id, pizzeria_id, pizza_name, price)
 VALUES (
